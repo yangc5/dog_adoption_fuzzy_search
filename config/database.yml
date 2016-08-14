@@ -17,7 +17,8 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  username: dog
+  host: localhost
+  username: dog_adoption
   password: dog
   pool: 5
 
